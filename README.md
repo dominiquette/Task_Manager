@@ -20,7 +20,7 @@ git clone git@github.com:dominiquette/Task_Manager.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd finalCapstone
+cd Task_Manager
 
 ```  
 
