@@ -15,7 +15,7 @@ To install and run the Task Manager locally, follow these steps:
 
 1. Clone the repository to your local machine:
 ```bash
-git clone git@github.com:dominiquette/finalCapstone.git
+git clone git@github.com:dominiquette/Task_Manager.git
 
 ```
 2. Navigate to the project directory:
